@@ -6,7 +6,7 @@ function shoppingList(items, prices) {
         total += prices[i];
     }
     
-    console.log ( "Total: $" + total )
+    console.log ( "Total: $" + total );
 }
 
 var items = [
